@@ -126,6 +126,10 @@ class MainActivity : AppCompatActivity(), AdListener {
         log("Ad onLazyAdLoaded")
     }
 
+    override fun onAdImpression(p0: AdView?) {
+        TODO("Not yet implemented")
+    }
+
     private fun log(msg: String){
         Log.d("BannerActivity", msg)
         Toast.makeText(this.applicationContext, msg, Toast.LENGTH_LONG).show()
