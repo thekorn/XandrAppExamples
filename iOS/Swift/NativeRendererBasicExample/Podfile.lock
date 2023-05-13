@@ -1,7 +1,7 @@
 PODS:
-  - AppNexusSDK (7.13):
-    - AppNexusSDK/AppNexusSDK (= 7.13)
-  - AppNexusSDK/AppNexusSDK (7.13)
+  - AppNexusSDK (8.6.0):
+    - AppNexusSDK/AppNexusSDK (= 8.6.0)
+  - AppNexusSDK/AppNexusSDK (8.6.0)
 
 DEPENDENCIES:
   - AppNexusSDK
@@ -11,8 +11,8 @@ SPEC REPOS:
     - AppNexusSDK
 
 SPEC CHECKSUMS:
-  AppNexusSDK: f3332476aa824408e113436086b5032476e65cf8
+  AppNexusSDK: 491705eb9ddcc01dac016a78d863712bcce88785
 
-PODFILE CHECKSUM: 913baa40a8ce232ac5ae21fab25ca1d9845e06c8
+PODFILE CHECKSUM: 4048cb24eafb7494ec0555d5e4b6cf19d3c95900
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.12.0
